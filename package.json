@@ -1,0 +1,27 @@
+{
+  "name": "generator-k8s",
+  "version": "0.0.1",
+  "description": "Kubernetes yeoman generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LieAlbertTriAdrian/generator-k8s.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "generator",
+    "k8s"
+  ],
+  "author": "Albert Lie <alberttri23@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LieAlbertTriAdrian/generator-k8s/issues"
+  },
+  "homepage": "https://github.com/LieAlbertTriAdrian/generator-k8s#readme",
+  "dependencies": {
+    "yeoman-generator": "^2.0.5"
+  }
+}
